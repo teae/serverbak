@@ -1,6 +1,6 @@
 {
     "version": 2,
     "routes": [
-      {"src": "/(.*)","dest": "https://danran.de/$1"}
+      {"src": "/(.*)","dest": "https://www.guoke.de/$1"}
     ]
 }
